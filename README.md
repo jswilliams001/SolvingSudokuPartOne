@@ -1,4 +1,5 @@
 # Sudoku Solver and Unit Tests
+Code from article: https://joe-on-everything.beehiiv.com/p/solving-sudoku-part-one
 
 ## sudoku_solver0.py
 
